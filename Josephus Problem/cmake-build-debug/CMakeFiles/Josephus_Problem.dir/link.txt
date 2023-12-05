@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Josephus_Problem.dir/objects.a
+D:\PROGRA~2\mingw64\bin\ar.exe qc CMakeFiles\Josephus_Problem.dir/objects.a @CMakeFiles\Josephus_Problem.dir\objects1.rsp
+D:\PROGRA~2\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Josephus_Problem.dir/objects.a -Wl,--no-whole-archive -o Josephus_Problem.exe -Wl,--out-implib,libJosephus_Problem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Josephus_Problem.dir\linklibs.rsp
