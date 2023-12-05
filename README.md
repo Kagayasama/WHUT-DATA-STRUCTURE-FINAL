@@ -6,4 +6,8 @@ Josephus ring (nice version) n people sitting around a round table. Starting wit
 # Q2 Points
 Write a program that will load the 100,000 points inside the unit square from the text file points. dat (available on the course web-page) and print the co-ordinates of the pair of points that are closest together. If possible, your program should complete the task in less than one second.
 # Q3 Maze Generator
+Write a program to generate a random maze linking a two dimensional 20 x 20 grid such
+that there is a unique path between any two cells. Your program should print the maze
+to the terminal using ASCII characters to denote allowed links between neighbouring
+cells. An example output (for a 5 x 5 grid) would be
 ![image](https://github.com/Kagayasama/WHUT-DATA-STRUCTURE-FINAL/assets/105861054/2431b2d8-5244-470e-9a4b-4fa453607d27)
